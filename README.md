@@ -102,4 +102,4 @@ Relevant Coursework: Advanced Computer Networks, Network Security, Software Desi
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yash-solanki-605411180/) • [GitHub](#) • [Email](mailto:yashsolanki0102@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yash-solanki-605411180/) • [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yashsolanki0102@gmail.com)
